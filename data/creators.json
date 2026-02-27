@@ -1,0 +1,1901 @@
+[
+  {
+    "id": "cr_001",
+    "username": "user1",
+    "country": "DE",
+    "niches": [
+      "music",
+      "education"
+    ],
+    "followers": 382742,
+    "engagementRate": 0.113,
+    "avgWatchTime": 13.1,
+    "contentStyle": "educational",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "BE",
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.86,
+        "male": 0.11
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 1 A",
+        "views": 429794,
+        "likes": 8432
+      },
+      {
+        "caption": "Sample caption 1 B",
+        "views": 502518,
+        "likes": 71709
+      }
+    ]
+  },
+  {
+    "id": "cr_002",
+    "username": "user2",
+    "country": "NL",
+    "niches": [
+      "fitness",
+      "lifestyle"
+    ],
+    "followers": 551304,
+    "engagementRate": 0.101,
+    "avgWatchTime": 7.1,
+    "contentStyle": "storytelling",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.86,
+        "male": 0.63
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 2 A",
+        "views": 353046,
+        "likes": 26411
+      },
+      {
+        "caption": "Sample caption 2 B",
+        "views": 379173,
+        "likes": 11995
+      }
+    ]
+  },
+  {
+    "id": "cr_003",
+    "username": "user3",
+    "country": "NL",
+    "niches": [
+      "education",
+      "lifestyle"
+    ],
+    "followers": 483429,
+    "engagementRate": 0.045,
+    "avgWatchTime": 12.6,
+    "contentStyle": "pov",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.81,
+        "male": 0.5
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 3 A",
+        "views": 354466,
+        "likes": 16884
+      },
+      {
+        "caption": "Sample caption 3 B",
+        "views": 317062,
+        "likes": 29101
+      }
+    ]
+  },
+  {
+    "id": "cr_004",
+    "username": "user4",
+    "country": "FR",
+    "niches": [
+      "music",
+      "education"
+    ],
+    "followers": 585246,
+    "engagementRate": 0.101,
+    "avgWatchTime": 7.9,
+    "contentStyle": "pov",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.87,
+        "male": 0.59
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 4 A",
+        "views": 499297,
+        "likes": 49828
+      },
+      {
+        "caption": "Sample caption 4 B",
+        "views": 587160,
+        "likes": 78674
+      }
+    ]
+  },
+  {
+    "id": "cr_005",
+    "username": "user5",
+    "country": "DE",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 365937,
+    "engagementRate": 0.052,
+    "avgWatchTime": 5.7,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.69,
+        "male": 0.23
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 5 A",
+        "views": 143836,
+        "likes": 32904
+      },
+      {
+        "caption": "Sample caption 5 B",
+        "views": 224148,
+        "likes": 5485
+      }
+    ]
+  },
+  {
+    "id": "cr_006",
+    "username": "user6",
+    "country": "DE",
+    "niches": [
+      "lifestyle"
+    ],
+    "followers": 463474,
+    "engagementRate": 0.055,
+    "avgWatchTime": 3.4,
+    "contentStyle": "pov",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "NL",
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.86,
+        "male": 0.23
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 6 A",
+        "views": 567272,
+        "likes": 55047
+      },
+      {
+        "caption": "Sample caption 6 B",
+        "views": 581683,
+        "likes": 65250
+      }
+    ]
+  },
+  {
+    "id": "cr_007",
+    "username": "user7",
+    "country": "FR",
+    "niches": [
+      "education"
+    ],
+    "followers": 492418,
+    "engagementRate": 0.101,
+    "avgWatchTime": 11.3,
+    "contentStyle": "pov",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "NL",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.82,
+        "male": 0.41
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 7 A",
+        "views": 181292,
+        "likes": 66366
+      },
+      {
+        "caption": "Sample caption 7 B",
+        "views": 148528,
+        "likes": 46710
+      }
+    ]
+  },
+  {
+    "id": "cr_008",
+    "username": "user8",
+    "country": "NL",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "followers": 225727,
+    "engagementRate": 0.099,
+    "avgWatchTime": 10.3,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Shock",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.68,
+        "male": 0.19
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 8 A",
+        "views": 318842,
+        "likes": 17591
+      },
+      {
+        "caption": "Sample caption 8 B",
+        "views": 407931,
+        "likes": 46336
+      }
+    ]
+  },
+  {
+    "id": "cr_009",
+    "username": "user9",
+    "country": "NL",
+    "niches": [
+      "music",
+      "education"
+    ],
+    "followers": 47770,
+    "engagementRate": 0.137,
+    "avgWatchTime": 11.6,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.45,
+        "male": 0.42
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 9 A",
+        "views": 550309,
+        "likes": 73026
+      },
+      {
+        "caption": "Sample caption 9 B",
+        "views": 59751,
+        "likes": 23506
+      }
+    ]
+  },
+  {
+    "id": "cr_010",
+    "username": "user10",
+    "country": "BE",
+    "niches": [
+      "education"
+    ],
+    "followers": 155094,
+    "engagementRate": 0.031,
+    "avgWatchTime": 4.0,
+    "contentStyle": "educational",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.79,
+        "male": 0.42
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 10 A",
+        "views": 153191,
+        "likes": 35253
+      },
+      {
+        "caption": "Sample caption 10 B",
+        "views": 431379,
+        "likes": 58177
+      }
+    ]
+  },
+  {
+    "id": "cr_011",
+    "username": "user11",
+    "country": "NL",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "followers": 418516,
+    "engagementRate": 0.147,
+    "avgWatchTime": 4.5,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "POV",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.8,
+        "male": 0.59
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 11 A",
+        "views": 259996,
+        "likes": 15139
+      },
+      {
+        "caption": "Sample caption 11 B",
+        "views": 571256,
+        "likes": 73341
+      }
+    ]
+  },
+  {
+    "id": "cr_012",
+    "username": "user12",
+    "country": "FR",
+    "niches": [
+      "music",
+      "education"
+    ],
+    "followers": 123230,
+    "engagementRate": 0.089,
+    "avgWatchTime": 14.7,
+    "contentStyle": "pov",
+    "primaryHookType": "POV",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "NL",
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.39,
+        "male": 0.51
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 12 A",
+        "views": 258198,
+        "likes": 63430
+      },
+      {
+        "caption": "Sample caption 12 B",
+        "views": 520180,
+        "likes": 69600
+      }
+    ]
+  },
+  {
+    "id": "cr_013",
+    "username": "user13",
+    "country": "NL",
+    "niches": [
+      "comedy",
+      "education"
+    ],
+    "followers": 494960,
+    "engagementRate": 0.114,
+    "avgWatchTime": 8.6,
+    "contentStyle": "trend-based",
+    "primaryHookType": "POV",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.58,
+        "male": 0.58
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 13 A",
+        "views": 183071,
+        "likes": 2746
+      },
+      {
+        "caption": "Sample caption 13 B",
+        "views": 570116,
+        "likes": 61567
+      }
+    ]
+  },
+  {
+    "id": "cr_014",
+    "username": "user14",
+    "country": "NL",
+    "niches": [
+      "education",
+      "fitness"
+    ],
+    "followers": 564761,
+    "engagementRate": 0.076,
+    "avgWatchTime": 8.0,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.65,
+        "male": 0.27
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 14 A",
+        "views": 377122,
+        "likes": 27494
+      },
+      {
+        "caption": "Sample caption 14 B",
+        "views": 201766,
+        "likes": 62831
+      }
+    ]
+  },
+  {
+    "id": "cr_015",
+    "username": "user15",
+    "country": "NL",
+    "niches": [
+      "lifestyle",
+      "fitness"
+    ],
+    "followers": 273975,
+    "engagementRate": 0.087,
+    "avgWatchTime": 3.1,
+    "contentStyle": "trend-based",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.32,
+        "male": 0.59
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 15 A",
+        "views": 594073,
+        "likes": 62023
+      },
+      {
+        "caption": "Sample caption 15 B",
+        "views": 31109,
+        "likes": 24863
+      }
+    ]
+  },
+  {
+    "id": "cr_016",
+    "username": "user16",
+    "country": "FR",
+    "niches": [
+      "music"
+    ],
+    "followers": 107742,
+    "engagementRate": 0.034,
+    "avgWatchTime": 5.8,
+    "contentStyle": "pov",
+    "primaryHookType": "Shock",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "BE",
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.62,
+        "male": 0.34
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 16 A",
+        "views": 359640,
+        "likes": 66638
+      },
+      {
+        "caption": "Sample caption 16 B",
+        "views": 267512,
+        "likes": 72595
+      }
+    ]
+  },
+  {
+    "id": "cr_017",
+    "username": "user17",
+    "country": "FR",
+    "niches": [
+      "comedy",
+      "music"
+    ],
+    "followers": 289421,
+    "engagementRate": 0.067,
+    "avgWatchTime": 9.9,
+    "contentStyle": "pov",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.37,
+        "male": 0.16
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 17 A",
+        "views": 109142,
+        "likes": 79072
+      },
+      {
+        "caption": "Sample caption 17 B",
+        "views": 36786,
+        "likes": 20190
+      }
+    ]
+  },
+  {
+    "id": "cr_018",
+    "username": "user18",
+    "country": "FR",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 546850,
+    "engagementRate": 0.117,
+    "avgWatchTime": 14.8,
+    "contentStyle": "educational",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.37,
+        "male": 0.32
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 18 A",
+        "views": 534779,
+        "likes": 68558
+      },
+      {
+        "caption": "Sample caption 18 B",
+        "views": 500619,
+        "likes": 73548
+      }
+    ]
+  },
+  {
+    "id": "cr_019",
+    "username": "user19",
+    "country": "DE",
+    "niches": [
+      "lifestyle"
+    ],
+    "followers": 56493,
+    "engagementRate": 0.033,
+    "avgWatchTime": 12.0,
+    "contentStyle": "pov",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.62,
+        "male": 0.69
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 19 A",
+        "views": 363341,
+        "likes": 9905
+      },
+      {
+        "caption": "Sample caption 19 B",
+        "views": 450153,
+        "likes": 48348
+      }
+    ]
+  },
+  {
+    "id": "cr_020",
+    "username": "user20",
+    "country": "NL",
+    "niches": [
+      "comedy",
+      "education"
+    ],
+    "followers": 191697,
+    "engagementRate": 0.108,
+    "avgWatchTime": 3.7,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.33,
+        "male": 0.53
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 20 A",
+        "views": 371122,
+        "likes": 14510
+      },
+      {
+        "caption": "Sample caption 20 B",
+        "views": 242165,
+        "likes": 53629
+      }
+    ]
+  },
+  {
+    "id": "cr_021",
+    "username": "user21",
+    "country": "NL",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "followers": 444594,
+    "engagementRate": 0.075,
+    "avgWatchTime": 11.5,
+    "contentStyle": "educational",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.65,
+        "male": 0.43
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 21 A",
+        "views": 244412,
+        "likes": 31796
+      },
+      {
+        "caption": "Sample caption 21 B",
+        "views": 581500,
+        "likes": 29367
+      }
+    ]
+  },
+  {
+    "id": "cr_022",
+    "username": "user22",
+    "country": "NL",
+    "niches": [
+      "music",
+      "education"
+    ],
+    "followers": 559017,
+    "engagementRate": 0.028,
+    "avgWatchTime": 9.3,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.88,
+        "male": 0.2
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 22 A",
+        "views": 219929,
+        "likes": 60112
+      },
+      {
+        "caption": "Sample caption 22 B",
+        "views": 482660,
+        "likes": 22706
+      }
+    ]
+  },
+  {
+    "id": "cr_023",
+    "username": "user23",
+    "country": "BE",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 493004,
+    "engagementRate": 0.029,
+    "avgWatchTime": 12.8,
+    "contentStyle": "pov",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "BE",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.75,
+        "male": 0.67
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 23 A",
+        "views": 533832,
+        "likes": 65074
+      },
+      {
+        "caption": "Sample caption 23 B",
+        "views": 578537,
+        "likes": 40888
+      }
+    ]
+  },
+  {
+    "id": "cr_024",
+    "username": "user24",
+    "country": "NL",
+    "niches": [
+      "comedy",
+      "education"
+    ],
+    "followers": 586613,
+    "engagementRate": 0.138,
+    "avgWatchTime": 10.8,
+    "contentStyle": "pov",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.6,
+        "male": 0.31
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 24 A",
+        "views": 46968,
+        "likes": 3578
+      },
+      {
+        "caption": "Sample caption 24 B",
+        "views": 56227,
+        "likes": 30811
+      }
+    ]
+  },
+  {
+    "id": "cr_025",
+    "username": "user25",
+    "country": "BE",
+    "niches": [
+      "fitness",
+      "education"
+    ],
+    "followers": 524949,
+    "engagementRate": 0.031,
+    "avgWatchTime": 7.8,
+    "contentStyle": "pov",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.65,
+        "male": 0.59
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 25 A",
+        "views": 592742,
+        "likes": 42753
+      },
+      {
+        "caption": "Sample caption 25 B",
+        "views": 501551,
+        "likes": 44668
+      }
+    ]
+  },
+  {
+    "id": "cr_026",
+    "username": "user26",
+    "country": "DE",
+    "niches": [
+      "music",
+      "fitness"
+    ],
+    "followers": 348717,
+    "engagementRate": 0.114,
+    "avgWatchTime": 10.0,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Shock",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.5,
+        "male": 0.61
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 26 A",
+        "views": 508420,
+        "likes": 31583
+      },
+      {
+        "caption": "Sample caption 26 B",
+        "views": 381995,
+        "likes": 66804
+      }
+    ]
+  },
+  {
+    "id": "cr_027",
+    "username": "user27",
+    "country": "NL",
+    "niches": [
+      "fitness"
+    ],
+    "followers": 94885,
+    "engagementRate": 0.024,
+    "avgWatchTime": 7.0,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Shock",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.51,
+        "male": 0.31
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 27 A",
+        "views": 179262,
+        "likes": 70532
+      },
+      {
+        "caption": "Sample caption 27 B",
+        "views": 556636,
+        "likes": 64219
+      }
+    ]
+  },
+  {
+    "id": "cr_028",
+    "username": "user28",
+    "country": "FR",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "followers": 55982,
+    "engagementRate": 0.077,
+    "avgWatchTime": 5.2,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.66,
+        "male": 0.11
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 28 A",
+        "views": 167912,
+        "likes": 69614
+      },
+      {
+        "caption": "Sample caption 28 B",
+        "views": 594270,
+        "likes": 10842
+      }
+    ]
+  },
+  {
+    "id": "cr_029",
+    "username": "user29",
+    "country": "BE",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 289293,
+    "engagementRate": 0.069,
+    "avgWatchTime": 9.4,
+    "contentStyle": "storytelling",
+    "primaryHookType": "Fact",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.84,
+        "male": 0.53
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 29 A",
+        "views": 307795,
+        "likes": 66520
+      },
+      {
+        "caption": "Sample caption 29 B",
+        "views": 376316,
+        "likes": 52012
+      }
+    ]
+  },
+  {
+    "id": "cr_030",
+    "username": "user30",
+    "country": "DE",
+    "niches": [
+      "comedy"
+    ],
+    "followers": 436024,
+    "engagementRate": 0.038,
+    "avgWatchTime": 4.8,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.76,
+        "male": 0.58
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 30 A",
+        "views": 548459,
+        "likes": 32604
+      },
+      {
+        "caption": "Sample caption 30 B",
+        "views": 57552,
+        "likes": 15090
+      }
+    ]
+  },
+  {
+    "id": "cr_031",
+    "username": "user31",
+    "country": "BE",
+    "niches": [
+      "fitness"
+    ],
+    "followers": 316032,
+    "engagementRate": 0.068,
+    "avgWatchTime": 11.5,
+    "contentStyle": "pov",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.4,
+        "male": 0.55
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 31 A",
+        "views": 487166,
+        "likes": 16714
+      },
+      {
+        "caption": "Sample caption 31 B",
+        "views": 355871,
+        "likes": 78257
+      }
+    ]
+  },
+  {
+    "id": "cr_032",
+    "username": "user32",
+    "country": "DE",
+    "niches": [
+      "comedy",
+      "fitness"
+    ],
+    "followers": 500321,
+    "engagementRate": 0.039,
+    "avgWatchTime": 11.7,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.47,
+        "male": 0.25
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 32 A",
+        "views": 368161,
+        "likes": 62644
+      },
+      {
+        "caption": "Sample caption 32 B",
+        "views": 267739,
+        "likes": 57985
+      }
+    ]
+  },
+  {
+    "id": "cr_033",
+    "username": "user33",
+    "country": "DE",
+    "niches": [
+      "fitness"
+    ],
+    "followers": 304681,
+    "engagementRate": 0.069,
+    "avgWatchTime": 8.9,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [
+      "supplement_claim"
+    ],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.53,
+        "male": 0.35
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 33 A",
+        "views": 52362,
+        "likes": 7634
+      },
+      {
+        "caption": "Sample caption 33 B",
+        "views": 441587,
+        "likes": 18841
+      }
+    ]
+  },
+  {
+    "id": "cr_034",
+    "username": "user34",
+    "country": "BE",
+    "niches": [
+      "fitness"
+    ],
+    "followers": 496547,
+    "engagementRate": 0.077,
+    "avgWatchTime": 4.6,
+    "contentStyle": "pov",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.64,
+        "male": 0.64
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 34 A",
+        "views": 252245,
+        "likes": 23311
+      },
+      {
+        "caption": "Sample caption 34 B",
+        "views": 397619,
+        "likes": 61344
+      }
+    ]
+  },
+  {
+    "id": "cr_035",
+    "username": "user35",
+    "country": "NL",
+    "niches": [
+      "lifestyle"
+    ],
+    "followers": 230019,
+    "engagementRate": 0.062,
+    "avgWatchTime": 10.5,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Shock",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.8,
+        "male": 0.24
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 35 A",
+        "views": 90236,
+        "likes": 63787
+      },
+      {
+        "caption": "Sample caption 35 B",
+        "views": 496980,
+        "likes": 18432
+      }
+    ]
+  },
+  {
+    "id": "cr_036",
+    "username": "user36",
+    "country": "FR",
+    "niches": [
+      "fitness",
+      "lifestyle"
+    ],
+    "followers": 589825,
+    "engagementRate": 0.082,
+    "avgWatchTime": 12.0,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.38,
+        "male": 0.55
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 36 A",
+        "views": 542989,
+        "likes": 39580
+      },
+      {
+        "caption": "Sample caption 36 B",
+        "views": 167781,
+        "likes": 10465
+      }
+    ]
+  },
+  {
+    "id": "cr_037",
+    "username": "user37",
+    "country": "DE",
+    "niches": [
+      "comedy",
+      "music"
+    ],
+    "followers": 357039,
+    "engagementRate": 0.028,
+    "avgWatchTime": 10.3,
+    "contentStyle": "educational",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.57,
+        "male": 0.63
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 37 A",
+        "views": 162881,
+        "likes": 5750
+      },
+      {
+        "caption": "Sample caption 37 B",
+        "views": 344311,
+        "likes": 38247
+      }
+    ]
+  },
+  {
+    "id": "cr_038",
+    "username": "user38",
+    "country": "NL",
+    "niches": [
+      "fitness"
+    ],
+    "followers": 42708,
+    "engagementRate": 0.139,
+    "avgWatchTime": 10.9,
+    "contentStyle": "educational",
+    "primaryHookType": "POV",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.58,
+        "male": 0.23
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 38 A",
+        "views": 553532,
+        "likes": 45969
+      },
+      {
+        "caption": "Sample caption 38 B",
+        "views": 424949,
+        "likes": 43852
+      }
+    ]
+  },
+  {
+    "id": "cr_039",
+    "username": "user39",
+    "country": "FR",
+    "niches": [
+      "education",
+      "fitness"
+    ],
+    "followers": 54776,
+    "engagementRate": 0.116,
+    "avgWatchTime": 11.0,
+    "contentStyle": "trend-based",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.89,
+        "male": 0.42
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 39 A",
+        "views": 79346,
+        "likes": 41937
+      },
+      {
+        "caption": "Sample caption 39 B",
+        "views": 579806,
+        "likes": 57354
+      }
+    ]
+  },
+  {
+    "id": "cr_040",
+    "username": "user40",
+    "country": "DE",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 390202,
+    "engagementRate": 0.101,
+    "avgWatchTime": 8.7,
+    "contentStyle": "text-heavy",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "BE",
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.38,
+        "male": 0.61
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 40 A",
+        "views": 84153,
+        "likes": 51081
+      },
+      {
+        "caption": "Sample caption 40 B",
+        "views": 46895,
+        "likes": 41690
+      }
+    ]
+  },
+  {
+    "id": "cr_041",
+    "username": "user41",
+    "country": "DE",
+    "niches": [
+      "fitness",
+      "education"
+    ],
+    "followers": 188401,
+    "engagementRate": 0.089,
+    "avgWatchTime": 13.3,
+    "contentStyle": "aesthetic",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR"
+      ],
+      "genderSplit": {
+        "female": 0.69,
+        "male": 0.46
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 41 A",
+        "views": 203256,
+        "likes": 34480
+      },
+      {
+        "caption": "Sample caption 41 B",
+        "views": 519281,
+        "likes": 54147
+      }
+    ]
+  },
+  {
+    "id": "cr_042",
+    "username": "user42",
+    "country": "NL",
+    "niches": [
+      "fitness",
+      "education"
+    ],
+    "followers": 136932,
+    "engagementRate": 0.023,
+    "avgWatchTime": 3.6,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Relatable",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.56,
+        "male": 0.28
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 42 A",
+        "views": 343619,
+        "likes": 48826
+      },
+      {
+        "caption": "Sample caption 42 B",
+        "views": 586985,
+        "likes": 15913
+      }
+    ]
+  },
+  {
+    "id": "cr_043",
+    "username": "user43",
+    "country": "DE",
+    "niches": [
+      "education",
+      "lifestyle"
+    ],
+    "followers": 144218,
+    "engagementRate": 0.038,
+    "avgWatchTime": 7.0,
+    "contentStyle": "trend-based",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [
+      "explicit_language"
+    ],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.31,
+        "male": 0.14
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 43 A",
+        "views": 529740,
+        "likes": 71226
+      },
+      {
+        "caption": "Sample caption 43 B",
+        "views": 22511,
+        "likes": 72519
+      }
+    ]
+  },
+  {
+    "id": "cr_044",
+    "username": "user44",
+    "country": "BE",
+    "niches": [
+      "comedy"
+    ],
+    "followers": 393283,
+    "engagementRate": 0.117,
+    "avgWatchTime": 12.8,
+    "contentStyle": "storytelling",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.88,
+        "male": 0.66
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 44 A",
+        "views": 162896,
+        "likes": 72459
+      },
+      {
+        "caption": "Sample caption 44 B",
+        "views": 277848,
+        "likes": 18984
+      }
+    ]
+  },
+  {
+    "id": "cr_045",
+    "username": "user45",
+    "country": "DE",
+    "niches": [
+      "comedy",
+      "lifestyle"
+    ],
+    "followers": 485162,
+    "engagementRate": 0.129,
+    "avgWatchTime": 4.8,
+    "contentStyle": "storytelling",
+    "primaryHookType": "Transformation",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "NL",
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.76,
+        "male": 0.33
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 45 A",
+        "views": 596595,
+        "likes": 21650
+      },
+      {
+        "caption": "Sample caption 45 B",
+        "views": 78512,
+        "likes": 63658
+      }
+    ]
+  },
+  {
+    "id": "cr_046",
+    "username": "user46",
+    "country": "NL",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "followers": 233458,
+    "engagementRate": 0.039,
+    "avgWatchTime": 4.1,
+    "contentStyle": "trend-based",
+    "primaryHookType": "POV",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.56,
+        "male": 0.66
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 46 A",
+        "views": 437602,
+        "likes": 12329
+      },
+      {
+        "caption": "Sample caption 46 B",
+        "views": 111333,
+        "likes": 38890
+      }
+    ]
+  },
+  {
+    "id": "cr_047",
+    "username": "user47",
+    "country": "NL",
+    "niches": [
+      "education"
+    ],
+    "followers": 239279,
+    "engagementRate": 0.092,
+    "avgWatchTime": 11.8,
+    "contentStyle": "trend-based",
+    "primaryHookType": "Sound-driven",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE"
+      ],
+      "genderSplit": {
+        "female": 0.35,
+        "male": 0.55
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 47 A",
+        "views": 479083,
+        "likes": 74623
+      },
+      {
+        "caption": "Sample caption 47 B",
+        "views": 544855,
+        "likes": 15024
+      }
+    ]
+  },
+  {
+    "id": "cr_048",
+    "username": "user48",
+    "country": "NL",
+    "niches": [
+      "education",
+      "fitness"
+    ],
+    "followers": 562875,
+    "engagementRate": 0.032,
+    "avgWatchTime": 10.0,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "DE",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.68,
+        "male": 0.56
+      },
+      "topAgeRange": "25-34"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 48 A",
+        "views": 272045,
+        "likes": 73746
+      },
+      {
+        "caption": "Sample caption 48 B",
+        "views": 241493,
+        "likes": 47374
+      }
+    ]
+  },
+  {
+    "id": "cr_049",
+    "username": "user49",
+    "country": "BE",
+    "niches": [
+      "comedy"
+    ],
+    "followers": 394414,
+    "engagementRate": 0.087,
+    "avgWatchTime": 7.0,
+    "contentStyle": "dark-humor",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "BE"
+      ],
+      "genderSplit": {
+        "female": 0.48,
+        "male": 0.29
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 49 A",
+        "views": 494500,
+        "likes": 44632
+      },
+      {
+        "caption": "Sample caption 49 B",
+        "views": 74686,
+        "likes": 60666
+      }
+    ]
+  },
+  {
+    "id": "cr_050",
+    "username": "user50",
+    "country": "NL",
+    "niches": [
+      "education"
+    ],
+    "followers": 177566,
+    "engagementRate": 0.126,
+    "avgWatchTime": 14.6,
+    "contentStyle": "educational",
+    "primaryHookType": "Visual",
+    "brandSafetyFlags": [],
+    "audience": {
+      "topCountries": [
+        "FR",
+        "NL"
+      ],
+      "genderSplit": {
+        "female": 0.52,
+        "male": 0.64
+      },
+      "topAgeRange": "18-24"
+    },
+    "lastPosts": [
+      {
+        "caption": "Sample caption 50 A",
+        "views": 270704,
+        "likes": 31818
+      },
+      {
+        "caption": "Sample caption 50 B",
+        "views": 247154,
+        "likes": 63598
+      }
+    ]
+  }
+]
