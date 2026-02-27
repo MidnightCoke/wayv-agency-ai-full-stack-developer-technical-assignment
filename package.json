@@ -43,7 +43,7 @@
     "openai": "^6.25.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "superjson": "^1.12.4",
+    "superjson": "^2.2.6",
     "zod": "^4.2.1"
   },
   "devDependencies": {
