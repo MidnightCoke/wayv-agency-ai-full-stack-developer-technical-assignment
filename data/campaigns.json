@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cmp_001",
+    "brand": "EnergyBoost",
+    "objective": "Brand Awareness",
+    "targetCountry": "NL",
+    "targetGender": "female",
+    "targetAgeRange": "18-24",
+    "niches": [
+      "fitness"
+    ],
+    "preferredHookTypes": [
+      "POV",
+      "Transformation"
+    ],
+    "minAvgWatchTime": 7,
+    "budgetRange": {
+      "minFollowers": 50000,
+      "maxFollowers": 250000
+    },
+    "tone": "energetic, motivational",
+    "doNotUseWords": [
+      "supplement",
+      "miracle",
+      "fat burner"
+    ]
+  },
+  {
+    "id": "cmp_002",
+    "brand": "LaughLab",
+    "objective": "Engagement",
+    "targetCountry": "NL",
+    "targetGender": "all",
+    "targetAgeRange": "18-24",
+    "niches": [
+      "comedy"
+    ],
+    "preferredHookTypes": [
+      "Relatable"
+    ],
+    "minAvgWatchTime": 8,
+    "budgetRange": {
+      "minFollowers": 100000,
+      "maxFollowers": 300000
+    },
+    "tone": "light, relatable",
+    "doNotUseWords": [
+      "dark",
+      "explicit"
+    ]
+  },
+  {
+    "id": "cmp_003",
+    "brand": "UrbanBeats",
+    "objective": "Song Launch",
+    "targetCountry": "NL",
+    "targetGender": "all",
+    "targetAgeRange": "18-24",
+    "niches": [
+      "music",
+      "lifestyle"
+    ],
+    "preferredHookTypes": [
+      "Sound-driven"
+    ],
+    "minAvgWatchTime": 5,
+    "budgetRange": {
+      "minFollowers": 200000,
+      "maxFollowers": 600000
+    },
+    "tone": "trendy, energetic",
+    "doNotUseWords": []
+  }
+]

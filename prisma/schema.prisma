@@ -1,0 +1,66 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Campaign {
+  id                 String   @id
+  brand              String
+  objective          String
+  targetCountry      String
+  targetGender       String
+  targetAgeRange     String
+  niches             String[]
+  preferredHookTypes String[]
+  minAvgWatchTime    Float
+  budgetRange        Json     // { minFollowers, maxFollowers }
+  tone               String
+  doNotUseWords      String[]
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+
+  briefCaches AiBriefCache[]
+}
+
+model Creator {
+  id               String   @id
+  username         String   @unique
+  country          String
+  niches           String[]
+  followers        Int
+  engagementRate   Float
+  avgWatchTime     Float
+  contentStyle     String
+  primaryHookType  String
+  brandSafetyFlags String[]
+  audience         Json     // { topCountries: string[], genderSplit: { female, male }, topAgeRange: string }
+  lastPosts        Json     // [{ caption, views, likes }]
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  briefCaches AiBriefCache[]
+}
+
+model AiBriefCache {
+  id           String   @id @default(uuid())
+  campaignId   String
+  creatorId    String
+  provider     String
+  model        String
+  promptHash   String
+  responseJson Json
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  campaign Campaign @relation(fields: [campaignId], references: [id])
+  creator  Creator  @relation(fields: [creatorId], references: [id])
+
+  @@unique([campaignId, creatorId, promptHash])
+}
